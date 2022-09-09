@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url(./Poppins-Regular.ttf);
+}
+body{
+    font-family: 'poppins';
+    background-color: rgb(250, 248, 248);
+}
+.section-container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
